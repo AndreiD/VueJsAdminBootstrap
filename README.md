@@ -2,6 +2,9 @@
 
 Save some time with this bootstrap project
 
+<a href="https://raw.githubusercontent.com/AndreiD/VueJsAdminBootstrap/master/other/screenshot.JPG" target="_blank">
+<img src="https://raw.githubusercontent.com/AndreiD/VueJsAdminBootstrap/master/other/screenshot.JPG"></a>
+
 ### My opinion on things:
 
 - Font is Open Sans Google https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans:400,600,600i,700i

@@ -2,8 +2,8 @@
 
 Save some time with this bootstrap project
 
-<a href="https://raw.githubusercontent.com/AndreiD/VueJsAdminBootstrap/master/other/screenshot.JPG" target="_blank">
-<img src="https://raw.githubusercontent.com/AndreiD/VueJsAdminBootstrap/master/other/screenshot.JPG"></a>
+
+<img src="https://raw.githubusercontent.com/AndreiD/VueJsAdminBootstrap/master/other/screenshot.JPG">
 
 ### My opinion on things:
 
